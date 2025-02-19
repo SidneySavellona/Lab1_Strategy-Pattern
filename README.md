@@ -58,4 +58,7 @@ Refactor the existing codes and provide the UML Diagram:
             System.out.println("Using a shield to defend!");
         }
     }
-}
+    }
+![UML Diagram](https://github.com/user-attachments/assets/cb9be71e-1a8e-4589-aeff-bb9562e0ff9b)
+
+
